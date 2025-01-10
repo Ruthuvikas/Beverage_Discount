@@ -47,11 +47,11 @@ The models predict the optimal discount required to increase the quantity of bev
 
 - **Top Performing Models**:
   - **XGBoost**:
-    - **R²**: 0.85
-    - **MSE**: 1.2 (on a normalized scale)
+    - **R²**: 0.74
+    - **MSE**: 181.6
   - **Random Forest**:
-    - **R²**: 0.80
-    - **MSE**: 1.5 (on a normalized scale)
+    - **R²**: 0.71
+    - **MSE**: 185.6 (on a normalized scale)
 
 - **Feature Insights**:
   - **Discount** was the most influential predictor, directly affecting the quantity sold.
